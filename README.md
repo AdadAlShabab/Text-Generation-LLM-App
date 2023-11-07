@@ -23,7 +23,7 @@ To get started with the Text Generation LLM App, follow these steps:
    - Install & import Gradio Library for User interface.
 
 3. **Run the App**:
-   - Start the app by running the appropriate command (e.g., `python app.py`).
+   - Execute the codes line-by-line.
 
 4. **Generate Text**:
    - Input a prompt, configure the desired options, and click the "Generate" button to receive generated text.
