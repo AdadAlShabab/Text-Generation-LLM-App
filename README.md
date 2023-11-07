@@ -1,8 +1,8 @@
-# Text Generation LLM App Using OpenAI
+# Text Generation LLM App Using Huggingface-Transformers
 
 ## Overview
 
-This repository is a Text Generation app powered by the OpenAI GPT-3.5 language model (LLM). The app allows users to generate human-like text in a variety of styles and formats, making it a versatile tool for a wide range of applications, including content creation, chatbots, and more.
+This repository is a Text Generation app powered by the Huggingface's GPT-3.5 language model (LLM). The app allows users to generate human-like text in a variety of styles and formats, making it a versatile tool for a wide range of applications, including content creation, chatbots, and more.
 
 ## Features
 
@@ -35,7 +35,7 @@ Contributions to this repository are welcome. If you have suggestions, improveme
 
 ## Acknowledgments
 
-- The app is built using the OpenAI GPT-3.5 language model, and we acknowledge the contributions of the OpenAI team to the field of natural language processing.
+- The app is built using the OpenAI GPT-2 language model, and we acknowledge the contributions of the OpenAI team to the field of natural language processing.
 - We would like to thank the open-source community for their support and contributions.
 
 ## Contact
