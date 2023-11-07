@@ -20,15 +20,12 @@ To get started with the Text Generation LLM App, follow these steps:
 
 2. **Installation**:
    - Install the necessary dependencies from requirements.txt file.
-   - Set up an OpenAI API key. You can get one by signing up/upgrading to paid on the OpenAI platform.
+   - Install & import Gradio Library for User interface.
 
-3. **Configuration**:
-   - Configure the app with your OpenAI API key and any other settings that may be required.
-
-4. **Run the App**:
+3. **Run the App**:
    - Start the app by running the appropriate command (e.g., `python app.py`).
 
-5. **Generate Text**:
+4. **Generate Text**:
    - Input a prompt, configure the desired options, and click the "Generate" button to receive generated text.
 
 ## Contributing
