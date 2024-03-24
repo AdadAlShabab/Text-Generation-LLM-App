@@ -2,7 +2,6 @@
 This repository is a Text Generation app powered by the Huggingface's GPT-2 language model (LLM). The app allows users to generate human-like text in a variety of styles and formats, making it a versatile tool for a wide range of applications, including content creation, chatbots, and more.
 
 ## Features
-
 - **Easy-to-Use Interface**: The app provides a user-friendly interface that allows users to interact with the OpenAI LLM without needing to write any code.
 - **Text Generation Options**: Users can input prompts and configure parameters to control the style, tone, and length of the generated text.
 - **Multiple Language Support**: The OpenAI LLM supports multiple languages, enabling the generation of text in different languages.
